@@ -1,5 +1,5 @@
 # Me name  *Przemyslaw Gawlik*
-I'm a quality assurance tests enjoyer, sharing school & spare time projects.
+I'm a quality assurance tests enjoyer, sharing spare time projects.
 </br>
  I'm currently learning the Selenium framwork in Java 🥒
 ## Me knowledge:
